@@ -4,8 +4,12 @@ Script Python untuk menghitung awal bulan di tahun Hijriyah
 
 **Install library**
 
-```pip install ephem```
+```bash
+pip install ephem
+```
 
 **Run**
 
-```python hilal.py```
+```bash
+python hilal.py
+```
